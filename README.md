@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Yuri Rocha
 
-<!--
-**yurirochadev/yurirochadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java em formação  
+🚀 Focado em Backend e evolução constante  
+📚 Estudando Programação Orientada a Objetos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que estou estudando
+
+- Java
+- Git & GitHub
+- Lógica de Programação
+- Banco de Dados (em aprendizado)
+
+---
+
+## 📈 Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor backend e construir projetos reais que resolvam problemas.
+
+---
+
+⭐ Sempre evoluindo um commit por vez.
